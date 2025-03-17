@@ -6,8 +6,9 @@ Course project of PRML IITJ 25
 1. Preparing the Dataset(Ex: Normalizing Pixel values)
         
 2. Extracting features from image dataset
+   The extracted features from the Feature_Extraction.ipynb are stored in the following drive link: https://drive.google.com/file/d/1EFQlS9C4YGT5CNjD_NX_Q-HaiyLH4sjE/view?usp=sharing
 
-3. Training the Models
+4. Training the Models
 
     a) Bayesin Decision Tree
 
@@ -19,10 +20,8 @@ Course project of PRML IITJ 25
 
     e) PCA
 
-4. Evaluating the models
+5. Evaluating the models
 
-5. Preparing the overview & demonstration
-
-
+6. Preparing the overview & demonstration
 
 
