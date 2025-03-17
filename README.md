@@ -5,7 +5,7 @@ Course project of PRML IITJ 25
 
 1. Preparing the Dataset(Ex: Normalizing Pixel values)
         
-2. Extracting features from image dataset
+2. Extracting features from image dataset:<br>
    The extracted features from the Feature_Extraction.ipynb are stored in the following drive link: https://drive.google.com/file/d/1EFQlS9C4YGT5CNjD_NX_Q-HaiyLH4sjE/view?usp=sharing
 
 4. Training the Models
