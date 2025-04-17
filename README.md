@@ -10,21 +10,21 @@ Utilizing the Quick, Draw! dataset from Google, a Convolutional Neural Network (
 
 Table of Contents:
 
-1.Introduction
+1. Introduction
 
-2.Dataset
+2. Dataset
 
-3.Feature Extraction
+3. Feature Extraction
 
-4.Approaches Tried
+4. Approaches Tried
 
-5.Experiments and Results
+5. Experiments and Results
 
-6.Contributions
+6. Contributions
 
-7.Installation
+7. Installation
 
-8.Usage
+8. Usage
 
 Introduction:
 
@@ -38,27 +38,27 @@ Feature Extraction:
 
 We employed several methods for feature extraction:
 
-a.Histogram Oriented Gradient (HOG): Captures the distribution of gradient orientations in small image regions.
+a. Histogram Oriented Gradient (HOG): Captures the distribution of gradient orientations in small image regions.
 
-b.CNN ResNet-based Feature Extraction: Utilizes ResNet filters in CNN layers to extract low-dimensional feature vectors.
+b. CNN ResNet-based Feature Extraction: Utilizes ResNet filters in CNN layers to extract low-dimensional feature vectors.
 
-c.Principal Component Analysis (PCA): A dimensionality reduction technique to optimize feature vector size for model performance.
+c. Principal Component Analysis (PCA): A dimensionality reduction technique to optimize feature vector size for model performance.
 
 *Approaches Tried:
 
 We explored various machine learning models, including:
 
-1.Decision Trees
+1. Decision Trees
 
-2.Logistic Regression
+2. Logistic Regression
 
-3.K-Nearest Neighbors (KNN)
+3. K-Nearest Neighbors (KNN)
 
-4.Support Vector Machines (SVM)
+4. Support Vector Machines (SVM)
 
-5.Bayesian Classification
+5. Bayesian Classification
 
-6.Artificial Neural Networks (ANN)
+6. Artificial Neural Networks (ANN)
 
 Experiments and Results:
 
