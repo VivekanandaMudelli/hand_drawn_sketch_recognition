@@ -94,4 +94,5 @@ Usage:
 To train the model, run the following command:
 
 bash
+
 python app.py
