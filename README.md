@@ -66,17 +66,17 @@ The project includes detailed experiments and results for each model, showcasing
 
 Contributions:
 
-Vivekananda Mudelli: Implemented KNN and ANN models, frontend development, CNN feature extraction, and final report.
+Vivekananda Mudelli : Implemented KNN and ANN models, frontend development, CNN feature extraction, and final report.
 
-Yashwanth: Implemented Multivariate Gaussian bias and Linear SVM models, backend development, video creation, and report writing.
+Yashwanth : Implemented Multivariate Gaussian bias and Linear SVM models, backend development, video creation, and report writing.
 
-Jagadeesh: Implemented Multivariate Gaussian bias and Logistic Regression models, backend development, and project webpage development.
+Jagadeesh : Implemented Multivariate Gaussian bias and Logistic Regression models, backend development, and project webpage development.
 
-Arin: Implemented Decision Tree and K-Means Clustering, contributed to the final report.
+Arin : Implemented Decision Tree and K-Means Clustering, contributed to the final report.
 
-Akshay: Implemented KNN and ANN models, created PowerPoint presentation, and contributed to the final report and video creation.
+Akshay : Implemented KNN and ANN models, created PowerPoint presentation, and contributed to the final report and video creation.
 
-Ganesh: Implemented Decision Tree and K-Means Clustering, contributed to the final report.
+Ganesh : Implemented Decision Tree and K-Means Clustering, contributed to the final report.
 
 Installation:
 
